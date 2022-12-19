@@ -1,0 +1,15 @@
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\bin\Debug\net6.0\Csharp7.exe
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\bin\Debug\net6.0\Csharp7.deps.json
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\bin\Debug\net6.0\Csharp7.runtimeconfig.json
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\bin\Debug\net6.0\Csharp7.dll
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\bin\Debug\net6.0\Csharp7.pdb
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\Csharp7.csproj.AssemblyReference.cache
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\Csharp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\Csharp7.AssemblyInfoInputs.cache
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\Csharp7.AssemblyInfo.cs
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\Csharp7.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\Csharp7.dll
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\refint\Csharp7.dll
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\Csharp7.pdb
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\Csharp7.genruntimeconfig.cache
+C:\Users\igor\Desktop\Practs\Сишарп\Csharp7\Csharp7\obj\Debug\net6.0\ref\Csharp7.dll
